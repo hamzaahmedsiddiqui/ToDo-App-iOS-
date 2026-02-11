@@ -35,8 +35,5 @@ To-do app is a to-do list app that adds items to the database and deletes the li
 ## Contributing
 Pull requests welcome! Fork the repo and submit changes. For issues, open a ticket.
 
-## License
-[MIT License](LICENSE) - Feel free to use/modify for personal projects.
-
 ## Contact
-Open to junior iOS roles! Connect on [LinkedIn](https://www.linkedin.com/in/duckju-hoffman) or email: djkimhoffman@googlemail.com.
+Open to iOS roles! Connect on [LinkedIn](https://www.linkedin.com/in/hamzaahmedsiddiqui/) or email: siddiquihamza1@outlook.com.
